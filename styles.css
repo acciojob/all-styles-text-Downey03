@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-p{
+.heading{
 	text-decoration:underline;
 	background-color: purple;
 	border-left: solid green 5px;
